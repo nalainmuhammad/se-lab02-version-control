@@ -1,1 +1,1 @@
-﻿Preferred language: C#
+Preferred language: C# for university coursework; C++ for DSA practice.
