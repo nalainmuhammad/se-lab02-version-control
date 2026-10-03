@@ -1,0 +1,4 @@
+﻿Git tracks changes to project files.
+A commit records a snapshot of staged changes.
+A branch allows independent work.
+GitHub hosts remote repositories.
