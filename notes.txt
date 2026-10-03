@@ -2,3 +2,4 @@
 A commit records a snapshot of staged changes.
 A branch allows independent work.
 GitHub hosts remote repositories.
+Temporary note: practice Git stash.
